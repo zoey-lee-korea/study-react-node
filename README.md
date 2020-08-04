@@ -1,3 +1,9 @@
+# 프로젝트 설명
+내용 : react와 node.js를 활용한 고객 관리 시스템 개발
+강의 출처 : YouTuber 나동빈님
+학습 기간 : 2020.8월
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
